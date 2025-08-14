@@ -148,6 +148,4 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ## 📞 Contact
 **Developer:** Saad Ali  
-📧 Email: airaxal@gmail.com  
-📍 Address: 11-E, Egerton Road, Lahore  
-📞 Phone: +92-42-36301854
+📧 Email: saadali16308@gmail.com  
