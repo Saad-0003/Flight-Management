@@ -10,7 +10,7 @@ public class DatabaseConnection {
     // Database connection parameters
     private static final String URL = "jdbc:mysql://localhost:3306/airline_db?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC";
     private static final String USER = "root";
-    private static final String PASSWORD = "Fyy7UEkZ@";
+    private static final String PASSWORD = "Password";   //Replace with your password
 
     private static Connection connection = null;
 
