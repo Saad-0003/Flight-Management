@@ -178,7 +178,7 @@ public class ManagePassenger extends JFrame {
             conn = DriverManager.getConnection(
                     "jdbc:mysql://localhost:3306/airline_db",
                     "root",
-                    "Fyy7UEkZ@" 
+                    "Password"     //Replace with your pasword
             );
         } catch (Exception e) {
             JOptionPane.showMessageDialog(this, "Database connection failed: " + e.getMessage(),
