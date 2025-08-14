@@ -170,7 +170,7 @@ public class Feedback extends JFrame{
 			conn = DriverManager.getConnection(
 					"jdbc:mysql://localhost:3306/airline_db",
 					"root",
-					"Fyy7UEkZ@" // Replace with your actual password
+					"Password" // Replace with your actual password
 			);
 		} catch (Exception e) {
 			JOptionPane.showMessageDialog(this, "Database connection failed: " + e.getMessage(),
